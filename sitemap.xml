@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://devict.org/videos/better-allies/</loc>
+    <lastmod>2017-11-30T19:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/videos/vuejs-the-good-the-better-the-best/</loc>
+    <lastmod>2017-10-06T19:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/videos/get-a-jumpstart-on-collaboration-and-code-review-in-github/</loc>
+    <lastmod>2017-09-28T19:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/august-2017-lightning-talks/</loc>
     <lastmod>2017-08-31T19:00:00-05:00</lastmod>
   </url>
@@ -332,6 +347,12 @@
   </url>
   
   <url>
+    <loc>http://devict.org/tags/diversity/</loc>
+    <lastmod>2017-11-30T19:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/tags/docker/</loc>
     <lastmod>2016-09-29T18:42:00-06:00</lastmod>
     <priority>0</priority>
@@ -381,7 +402,7 @@
   
   <url>
     <loc>http://devict.org/tags/git/</loc>
-    <lastmod>2013-05-30T20:08:10-05:00</lastmod>
+    <lastmod>2017-09-28T19:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -423,7 +444,7 @@
   
   <url>
     <loc>http://devict.org/tags/javascript/</loc>
-    <lastmod>2017-02-23T19:00:00-06:00</lastmod>
+    <lastmod>2017-10-06T19:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -551,7 +572,7 @@
   
   <url>
     <loc>http://devict.org/videos/</loc>
-    <lastmod>2017-08-31T19:00:00-05:00</lastmod>
+    <lastmod>2017-11-30T19:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -562,8 +583,14 @@
   </url>
   
   <url>
+    <loc>http://devict.org/tags/vue.js/</loc>
+    <lastmod>2017-10-06T19:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/</loc>
-    <lastmod>2017-08-31T19:00:00-05:00</lastmod>
+    <lastmod>2017-11-30T19:00:00-06:00</lastmod>
     <priority>0</priority>
   </url>
   

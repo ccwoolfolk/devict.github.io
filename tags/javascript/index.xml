@@ -6,10 +6,19 @@
     <description>Recent content in Javascript on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Feb 2017 19:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 06 Oct 2017 19:00:00 -0600</lastBuildDate>
     
 	<atom:link href="http://devict.org/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vue.js the Good, the Better, the Best</title>
+      <link>http://devict.org/videos/vuejs-the-good-the-better-the-best/</link>
+      <pubDate>Fri, 06 Oct 2017 19:00:00 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/vuejs-the-good-the-better-the-best/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ringa.js Alpha Introduction</title>

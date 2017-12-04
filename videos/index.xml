@@ -6,10 +6,37 @@
     <description>Recent content in Videos on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2017 19:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 30 Nov 2017 19:00:00 -0600</lastBuildDate>
     
 	<atom:link href="http://devict.org/videos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Better Allies</title>
+      <link>http://devict.org/videos/better-allies/</link>
+      <pubDate>Thu, 30 Nov 2017 19:00:00 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/better-allies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vue.js the Good, the Better, the Best</title>
+      <link>http://devict.org/videos/vuejs-the-good-the-better-the-best/</link>
+      <pubDate>Fri, 06 Oct 2017 19:00:00 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/vuejs-the-good-the-better-the-best/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Get a Jumpstart on Collaboration and Code Review in GitHub</title>
+      <link>http://devict.org/videos/get-a-jumpstart-on-collaboration-and-code-review-in-github/</link>
+      <pubDate>Thu, 28 Sep 2017 19:00:00 -0600</pubDate>
+      
+      <guid>http://devict.org/videos/get-a-jumpstart-on-collaboration-and-code-review-in-github/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>August 2017 Lightning Talks</title>

@@ -102,6 +102,15 @@
     </item>
     
     <item>
+      <title>Diversity</title>
+      <link>http://devict.org/tags/diversity/</link>
+      <pubDate>Thu, 30 Nov 2017 19:00:00 -0600</pubDate>
+      
+      <guid>http://devict.org/tags/diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Docker</title>
       <link>http://devict.org/tags/docker/</link>
       <pubDate>Thu, 29 Sep 2016 18:42:00 -0600</pubDate>
@@ -176,7 +185,7 @@
     <item>
       <title>Git</title>
       <link>http://devict.org/tags/git/</link>
-      <pubDate>Thu, 30 May 2013 20:08:10 -0500</pubDate>
+      <pubDate>Thu, 28 Sep 2017 19:00:00 -0600</pubDate>
       
       <guid>http://devict.org/tags/git/</guid>
       <description></description>
@@ -239,7 +248,7 @@
     <item>
       <title>Javascript</title>
       <link>http://devict.org/tags/javascript/</link>
-      <pubDate>Thu, 23 Feb 2017 19:00:00 -0600</pubDate>
+      <pubDate>Fri, 06 Oct 2017 19:00:00 -0600</pubDate>
       
       <guid>http://devict.org/tags/javascript/</guid>
       <description></description>
@@ -413,6 +422,15 @@
       <pubDate>Thu, 26 Mar 2015 21:30:39 -0500</pubDate>
       
       <guid>http://devict.org/tags/vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vue.js</title>
+      <link>http://devict.org/tags/vue.js/</link>
+      <pubDate>Fri, 06 Oct 2017 19:00:00 -0600</pubDate>
+      
+      <guid>http://devict.org/tags/vue.js/</guid>
       <description></description>
     </item>
     
