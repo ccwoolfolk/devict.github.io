@@ -6,10 +6,20 @@
     <description>Recent content on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jan 2019 19:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="http://devict.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Salary Survey</title>
+      <link>http://devict.org/survey/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://devict.org/survey/</guid>
+      <description>Survey Introduction All Titles All Titles - Charts Developer Web Developer Engineer  devICT Salary Survey In May 2018, a group of volunteers started collecting and analyzing salary data for technical employees in the Wichita, Kansas Metropolitan Area. The main purpose was to better understand the economy around the skilled, technical workforce.
+Within the community, there are often talks about where a salary should be, and how individuals could better negotiate their pay.</description>
+    </item>
     
     <item>
       <title>2019-01-09 Board Meeting</title>
