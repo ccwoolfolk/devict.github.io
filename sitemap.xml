@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://devict.org/report/</loc>
+    <lastmod>2019-02-22T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://devict.org/survey/</loc>
     <lastmod>2019-01-29T00:00:00-05:00</lastmod>
   </url>
@@ -636,7 +641,7 @@
   
   <url>
     <loc>http://devict.org/</loc>
-    <lastmod>2019-01-29T00:00:00-05:00</lastmod>
+    <lastmod>2019-02-22T00:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   

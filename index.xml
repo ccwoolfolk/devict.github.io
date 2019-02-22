@@ -6,10 +6,21 @@
     <description>Recent content on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="http://devict.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Report Code of Conduct Incident</title>
+      <link>http://devict.org/report/</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://devict.org/report/</guid>
+      <description>You may use this form to anonymously report an incident that may have violated our Code of Conduct.
+The report will go to the devICT Board of Directors who are listed below. If you want to contact one or more of them separately outside of this form you may use their email addresses.
+ Jacob Walker (jacobwalker0814@gmail.com) Julia Winegeart (devjuliaw@gmail.com) Richard Sharp (rsharp924@gmail.com) Casey Woolfolk (ccwoolfolk@gmail.com) Sandip Southekal (southekal@outlook.com) Seth Etter (sethetter@gmail.</description>
+    </item>
     
     <item>
       <title>Salary Survey</title>
@@ -238,7 +249,8 @@ Leadership The devICT community is lead by The devICT Institute, a non-profit or
       <pubDate>Mon, 18 Jul 2016 14:52:11 -0500</pubDate>
       
       <guid>http://devict.org/conduct/</guid>
-      <description>&amp;amp; Anti-Harassment Policy devICT is dedicated to providing a safe and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, technical ability, or software preferences. We do not tolerate harassment in any form. Sexual language and imagery is not appropriate for any devICT meetup or chatroom.
+      <description>&amp;amp; Anti-Harassment Policy Report a Code of Conduct Incident
+devICT is dedicated to providing a safe and harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, technical ability, or software preferences. We do not tolerate harassment in any form. Sexual language and imagery is not appropriate for any devICT meetup or chatroom.
 Anyone violating these rules may be asked to leave the meetup or chatroom at the discretion of devICT organizers.</description>
     </item>
     
