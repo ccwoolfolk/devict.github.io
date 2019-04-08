@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sass on devICT</title>
+    <title>sass on devICT</title>
     <link>http://devict.org/tags/sass/</link>
-    <description>Recent content in Sass on devICT</description>
+    <description>Recent content in sass on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Sep 2013 20:40:12 -0500</lastBuildDate>

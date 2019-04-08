@@ -8,6 +8,12 @@
   </url>
   
   <url>
+    <loc>http://devict.org/</loc>
+    <lastmod>2019-02-22T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/survey/</loc>
     <lastmod>2019-01-29T00:00:00-05:00</lastmod>
   </url>
@@ -15,6 +21,12 @@
   <url>
     <loc>http://devict.org/meetings/2019-01-09/</loc>
     <lastmod>2019-01-09T18:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/meetings/</loc>
+    <lastmod>2019-01-09T18:00:00-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -48,8 +60,32 @@
   </url>
   
   <url>
+    <loc>http://devict.org/tags/</loc>
+    <lastmod>2018-03-29T19:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/videos/</loc>
+    <lastmod>2018-03-29T19:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/lightning-talks/</loc>
+    <lastmod>2018-03-29T19:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/better-allies/</loc>
     <lastmod>2017-11-30T19:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/diversity/</loc>
+    <lastmod>2017-11-30T19:00:00-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -58,8 +94,26 @@
   </url>
   
   <url>
+    <loc>http://devict.org/tags/javascript/</loc>
+    <lastmod>2017-10-06T19:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/vue.js/</loc>
+    <lastmod>2017-10-06T19:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/get-a-jumpstart-on-collaboration-and-code-review-in-github/</loc>
     <lastmod>2017-09-28T19:00:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/git/</loc>
+    <lastmod>2017-09-28T19:00:00-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -78,13 +132,31 @@
   </url>
   
   <url>
+    <loc>http://devict.org/tags/.net/</loc>
+    <lastmod>2017-04-25T19:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/not-your-mamas-asp.net/</loc>
     <lastmod>2017-04-25T19:00:00-05:00</lastmod>
   </url>
   
   <url>
+    <loc>http://devict.org/tags/linux/</loc>
+    <lastmod>2017-04-25T19:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/accessibility-for-blind-and-visually-impaired-users/</loc>
     <lastmod>2017-03-30T19:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/accessibility/</loc>
+    <lastmod>2017-03-30T19:00:00-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -98,13 +170,43 @@
   </url>
   
   <url>
+    <loc>http://devict.org/tags/angular/</loc>
+    <lastmod>2017-01-26T19:00:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/web-automation-using-selenium/</loc>
     <lastmod>2016-10-27T19:00:00-05:00</lastmod>
   </url>
   
   <url>
+    <loc>http://devict.org/tags/automation/</loc>
+    <lastmod>2016-10-27T19:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/selenium/</loc>
+    <lastmod>2016-10-27T19:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/testing/</loc>
+    <lastmod>2016-10-27T19:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/an-informal-intro-to-docker/</loc>
     <lastmod>2016-09-29T18:42:00-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/docker/</loc>
+    <lastmod>2016-09-29T18:42:00-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -115,6 +217,12 @@
   <url>
     <loc>http://devict.org/videos/elixir-is-fun/</loc>
     <lastmod>2016-07-28T19:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/elixir/</loc>
+    <lastmod>2016-07-28T19:00:00-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -143,13 +251,49 @@
   </url>
   
   <url>
+    <loc>http://devict.org/tags/flux/</loc>
+    <lastmod>2016-06-30T18:30:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/immutable.js/</loc>
+    <lastmod>2016-06-30T18:30:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/react/</loc>
+    <lastmod>2016-06-30T18:30:00-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/xamarin-introduction/</loc>
     <lastmod>2016-05-26T20:18:25-05:00</lastmod>
   </url>
   
   <url>
+    <loc>http://devict.org/tags/apps/</loc>
+    <lastmod>2016-05-26T20:18:25-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/mobile/</loc>
+    <lastmod>2016-05-26T20:18:25-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/wwc-intro-to-go-workshop/</loc>
     <lastmod>2016-05-04T20:41:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/go/</loc>
+    <lastmod>2016-05-04T20:41:08-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -188,6 +332,12 @@
   </url>
   
   <url>
+    <loc>http://devict.org/tags/games/</loc>
+    <lastmod>2015-07-30T20:14:36-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/getting-started-with-go/</loc>
     <lastmod>2015-07-23T20:53:21-05:00</lastmod>
   </url>
@@ -198,13 +348,49 @@
   </url>
   
   <url>
+    <loc>http://devict.org/tags/bots/</loc>
+    <lastmod>2015-06-26T18:02:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/hardware-hacking-with-node-and-johnnyfive/</loc>
     <lastmod>2015-04-30T20:18:29-05:00</lastmod>
   </url>
   
   <url>
+    <loc>http://devict.org/tags/hardware/</loc>
+    <lastmod>2015-04-30T20:18:29-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/nodejs/</loc>
+    <lastmod>2015-04-30T20:18:29-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/vim-and-emacs-chat-part-2-emacs/</loc>
     <lastmod>2015-03-26T21:30:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/editors/</loc>
+    <lastmod>2015-03-26T21:30:39-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/emacs/</loc>
+    <lastmod>2015-03-26T21:30:39-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/vim/</loc>
+    <lastmod>2015-03-26T21:30:39-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -223,13 +409,37 @@
   </url>
   
   <url>
+    <loc>http://devict.org/tags/sikuli/</loc>
+    <lastmod>2015-01-29T22:57:25-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/ipython-notebooks-for-cool-kids/</loc>
     <lastmod>2014-09-25T20:43:26-05:00</lastmod>
   </url>
   
   <url>
+    <loc>http://devict.org/tags/ipython/</loc>
+    <lastmod>2014-09-25T20:43:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/python/</loc>
+    <lastmod>2014-09-25T20:43:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/baby-springboards-towards-better-accessibility/</loc>
     <lastmod>2014-09-25T20:14:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/tdd/</loc>
+    <lastmod>2014-08-28T20:43:28-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -243,6 +453,12 @@
   </url>
   
   <url>
+    <loc>http://devict.org/tags/fundamentals/</loc>
+    <lastmod>2014-06-26T21:13:18-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/devict-automating-gimp-using-python/</loc>
     <lastmod>2014-06-05T08:41:49-05:00</lastmod>
   </url>
@@ -250,6 +466,12 @@
   <url>
     <loc>http://devict.org/videos/javascript-web-servers-with-expressjs/</loc>
     <lastmod>2014-05-29T21:14:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/expressjs/</loc>
+    <lastmod>2014-05-29T21:14:34-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -263,8 +485,20 @@
   </url>
   
   <url>
+    <loc>http://devict.org/tags/security/</loc>
+    <lastmod>2014-04-17T19:38:56-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/intro-to-haskell-type-basics/</loc>
     <lastmod>2014-03-27T19:40:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/haskell/</loc>
+    <lastmod>2014-03-27T19:40:44-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -273,8 +507,20 @@
   </url>
   
   <url>
+    <loc>http://devict.org/tags/css/</loc>
+    <lastmod>2014-02-27T19:50:06-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/intro-to-vagrant/</loc>
     <lastmod>2014-01-30T21:12:56-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/vagrant/</loc>
+    <lastmod>2014-01-30T21:12:56-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -283,8 +529,26 @@
   </url>
   
   <url>
+    <loc>http://devict.org/tags/gruntjs/</loc>
+    <lastmod>2014-01-30T19:01:22-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/realtime-web-apps-w-sailsjs/</loc>
     <lastmod>2013-11-21T21:38:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/sailsjs/</loc>
+    <lastmod>2013-11-21T21:38:52-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/php/</loc>
+    <lastmod>2013-11-21T19:45:29-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -293,8 +557,26 @@
   </url>
   
   <url>
+    <loc>http://devict.org/tags/twig/</loc>
+    <lastmod>2013-11-21T19:45:29-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/socketio-binding-the-front-and-backend-together-with-nodejs-and-canvas/</loc>
     <lastmod>2013-10-24T19:56:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/canvas/</loc>
+    <lastmod>2013-10-24T19:56:19-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/socket.io/</loc>
+    <lastmod>2013-10-24T19:56:19-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -303,13 +585,31 @@
   </url>
   
   <url>
+    <loc>http://devict.org/tags/sass/</loc>
+    <lastmod>2013-09-26T20:40:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/game-design-with-c/</loc>
     <lastmod>2013-08-29T20:22:29-05:00</lastmod>
   </url>
   
   <url>
+    <loc>http://devict.org/tags/c/</loc>
+    <lastmod>2013-08-29T20:22:29-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://devict.org/videos/intro-to-web-applications-with-angularjs/</loc>
     <lastmod>2013-07-26T08:33:07-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://devict.org/tags/angularjs/</loc>
+    <lastmod>2013-07-26T08:33:07-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -328,38 +628,8 @@
   </url>
   
   <url>
-    <loc>http://devict.org/tags/.net/</loc>
-    <lastmod>2017-04-25T19:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/accessibility/</loc>
-    <lastmod>2017-03-30T19:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/angular/</loc>
-    <lastmod>2017-01-26T19:00:00-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/angularjs/</loc>
-    <lastmod>2013-07-26T08:33:07-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/apps/</loc>
-    <lastmod>2016-05-26T20:18:25-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/automation/</loc>
-    <lastmod>2016-10-27T19:00:00-05:00</lastmod>
+    <loc>http://devict.org/tags/regex/</loc>
+    <lastmod>2013-03-29T07:03:33-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -368,281 +638,11 @@
   </url>
   
   <url>
-    <loc>http://devict.org/tags/bots/</loc>
-    <lastmod>2015-06-26T18:02:49-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/c/</loc>
-    <lastmod>2013-08-29T20:22:29-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/canvas/</loc>
-    <lastmod>2013-10-24T19:56:19-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/css/</loc>
-    <lastmod>2014-02-27T19:50:06-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/diversity/</loc>
-    <lastmod>2017-11-30T19:00:00-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/docker/</loc>
-    <lastmod>2016-09-29T18:42:00-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/editors/</loc>
-    <lastmod>2015-03-26T21:30:39-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/elixir/</loc>
-    <lastmod>2016-07-28T19:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/emacs/</loc>
-    <lastmod>2015-03-26T21:30:39-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/expressjs/</loc>
-    <lastmod>2014-05-29T21:14:34-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/flux/</loc>
-    <lastmod>2016-06-30T18:30:00-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/fundamentals/</loc>
-    <lastmod>2014-06-26T21:13:18-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/games/</loc>
-    <lastmod>2015-07-30T20:14:36-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/git/</loc>
-    <lastmod>2017-09-28T19:00:00-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/go/</loc>
-    <lastmod>2016-05-04T20:41:08-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/gruntjs/</loc>
-    <lastmod>2014-01-30T19:01:22-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/hardware/</loc>
-    <lastmod>2015-04-30T20:18:29-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/haskell/</loc>
-    <lastmod>2014-03-27T19:40:44-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/immutable.js/</loc>
-    <lastmod>2016-06-30T18:30:00-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/ipython/</loc>
-    <lastmod>2014-09-25T20:43:26-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/javascript/</loc>
-    <lastmod>2017-10-06T19:00:00-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/lightning-talks/</loc>
-    <lastmod>2018-03-29T19:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/linux/</loc>
-    <lastmod>2017-04-25T19:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/meetings/</loc>
-    <lastmod>2019-01-09T18:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://devict.org/mentors/</loc>
   </url>
   
   <url>
-    <loc>http://devict.org/tags/mobile/</loc>
-    <lastmod>2016-05-26T20:18:25-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/nodejs/</loc>
-    <lastmod>2015-04-30T20:18:29-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/php/</loc>
-    <lastmod>2013-11-21T19:45:29-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/python/</loc>
-    <lastmod>2014-09-25T20:43:26-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/react/</loc>
-    <lastmod>2016-06-30T18:30:00-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/regex/</loc>
-    <lastmod>2013-03-29T07:03:33-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/sailsjs/</loc>
-    <lastmod>2013-11-21T21:38:52-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/sass/</loc>
-    <lastmod>2013-09-26T20:40:12-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/security/</loc>
-    <lastmod>2014-04-17T19:38:56-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/selenium/</loc>
-    <lastmod>2016-10-27T19:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/sikuli/</loc>
-    <lastmod>2015-01-29T22:57:25-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://devict.org/slack/</loc>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/socket.io/</loc>
-    <lastmod>2013-10-24T19:56:19-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/</loc>
-    <lastmod>2017-04-25T19:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/tdd/</loc>
-    <lastmod>2014-08-28T20:43:28-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/testing/</loc>
-    <lastmod>2016-10-27T19:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/twig/</loc>
-    <lastmod>2013-11-21T19:45:29-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/vagrant/</loc>
-    <lastmod>2014-01-30T21:12:56-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/videos/</loc>
-    <lastmod>2018-03-29T19:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/vim/</loc>
-    <lastmod>2015-03-26T21:30:39-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/tags/vue.js/</loc>
-    <lastmod>2017-10-06T19:00:00-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://devict.org/</loc>
-    <lastmod>2019-02-22T00:00:00-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

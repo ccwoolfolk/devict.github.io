@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Php on devICT</title>
+    <title>PHP on devICT</title>
     <link>http://devict.org/tags/php/</link>
-    <description>Recent content in Php on devICT</description>
+    <description>Recent content in PHP on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 21 Nov 2013 19:45:29 -0600</lastBuildDate>

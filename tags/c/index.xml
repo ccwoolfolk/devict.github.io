@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>C on devICT</title>
+    <title>c on devICT</title>
     <link>http://devict.org/tags/c/</link>
-    <description>Recent content in C on devICT</description>
+    <description>Recent content in c on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Aug 2013 20:22:29 -0500</lastBuildDate>

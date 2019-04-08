@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elixir on devICT</title>
+    <title>elixir on devICT</title>
     <link>http://devict.org/tags/elixir/</link>
-    <description>Recent content in Elixir on devICT</description>
+    <description>Recent content in elixir on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Jul 2016 19:00:00 -0500</lastBuildDate>

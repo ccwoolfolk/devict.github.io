@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Expressjs on devICT</title>
+    <title>expressjs on devICT</title>
     <link>http://devict.org/tags/expressjs/</link>
-    <description>Recent content in Expressjs on devICT</description>
+    <description>Recent content in expressjs on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 May 2014 21:14:34 -0500</lastBuildDate>
