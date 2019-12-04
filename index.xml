@@ -268,7 +268,7 @@ II. Roll Call  Board Members  Present  Jacob Walker Julia Winegeart Casey Woolfo
       
       <guid>http://devict.org/support/</guid>
       <description>Our costs Membership in our organization is free as are most of our events. To keep our services free we depend on donations from the community.
-Recurring Donations One-time Donations Referral Codes </description>
+  Our monthly costs average about . Our recurring donations are about  from  donors.     Recurring Donations  You can create a recurring donation by creating an account on Patreon. To donate visit devICT on Patreon One-time Donations   If you want to help but do not want to set up a recurring donation you can give a single amount using PayPal.</description>
     </item>
     
     <item>
@@ -298,7 +298,7 @@ Anyone violating these rules may be asked to leave the meetup or chatroom at the
       <pubDate>Mon, 18 Jul 2016 14:52:11 -0500</pubDate>
       
       <guid>http://devict.org/events/</guid>
-      <description>Upcoming Events </description>
+      <description>Upcoming Events         Venue: , , &amp;nbsp;  Map It!  Date and Time:   Visit Meetup      </description>
     </item>
     
     <item>
@@ -649,7 +649,8 @@ Anyone violating these rules may be asked to leave the meetup or chatroom at the
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://devict.org/binary/</guid>
-      <description> &amp;lt;h3&amp;gt;What is Binary?&amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt;Binary numbers are just like regular numbers, except instead of using digits 0 through 9, they only use 0 and 1.&amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt;  Clear</description>
+      <description>Welcome SWE Expo! Computers don&#39;t think and talk like us. Instead of English they speak Binary. Try writing a word in binary!
+ &amp;lt;h3&amp;gt;What is Binary?&amp;lt;/h3&amp;gt; &amp;lt;p&amp;gt;Binary numbers are just like regular numbers, except instead of using digits 0 through 9, they only use 0 and 1.&amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt;   How to use Each letter of the alphabet has a number. A is 1, B is 2, and so on. Figure out what number goes with each letter, and then click the holes to add the numbers up to equal that letters number.</description>
     </item>
     
     <item>
@@ -658,7 +659,10 @@ Anyone violating these rules may be asked to leave the meetup or chatroom at the
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://devict.org/mentors/</guid>
-      <description>Mentors are available to offer their expertise to others. Use this page to search for someone with a specific skill then reach out to them on Slack. Everyone listed here has explicitly volunteered to be a mentor so don&#39;t hesitate to reach out!</description>
+      <description>Mentors are available to offer their expertise to others. Use this page to search for someone with a specific skill then reach out to them on Slack. Everyone listed here has explicitly volunteered to be a mentor so don&#39;t hesitate to reach out!
+&amp;times; Connect with a mentor  {{selectedMentor.name}} is available to mentor in these topics:
+{{skill}} To get started, send {{selectedMentor.username}} a message on Slack.
+ {{selectedMentor.name}} is currently unavailable for mentorship.</description>
     </item>
     
     <item>
@@ -667,7 +671,7 @@ Anyone violating these rules may be asked to leave the meetup or chatroom at the
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://devict.org/slack/</guid>
-      <description></description>
+      <description>window.location = &#34;https://devict-slackin.herokuapp.com&#34;; </description>
     </item>
     
   </channel>
