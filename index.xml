@@ -6,10 +6,19 @@
     <description>Recent content on devICT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Oct 2019 12:10:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 06:10:00 -0500</lastBuildDate>
     
 	<atom:link href="http://devict.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020-01-16 Board Meeting</title>
+      <link>http://devict.org/meetings/2020-01-16/</link>
+      <pubDate>Thu, 16 Jan 2020 06:10:00 -0500</pubDate>
+      
+      <guid>http://devict.org/meetings/2020-01-16/</guid>
+      <description>I. Call to Order II. Roll Call  Board Members  Present Absent   Guests  III. Approval of Minutes IV. Financial Report  Account Update 2019 990n Filing Update 2019 1099 Filing(s) Update  VI. New Business Bylaw Changes Venue Changes Board Election(s) VII. Comments/Announcements Public Participation Forum VIII. Public Participation IX. Set Meeting Dates X. Adjournment </description>
+    </item>
     
     <item>
       <title>2019-10-10 Board Meeting</title>
@@ -659,7 +668,7 @@ Anyone violating these rules may be asked to leave the meetup or chatroom at the
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://devict.org/mentors/</guid>
-      <description>Mentors are available to offer their expertise to others. Use this page to search for someone with a specific skill then reach out to them on Slack. Everyone listed here has explicitly volunteered to be a mentor so don&#39;t hesitate to reach out!
+      <description>Mentors are available to offer their expertise to others. Use this page to search for someone with a specific skill then reach out to them on Slack. Everyone listed here has explicitly volunteered to be a mentor so don&amp;rsquo;t hesitate to reach out!
 &amp;times; Connect with a mentor  {{selectedMentor.name}} is available to mentor in these topics:
 {{skill}} To get started, send {{selectedMentor.username}} a message on Slack.
  {{selectedMentor.name}} is currently unavailable for mentorship.</description>
